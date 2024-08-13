@@ -41,3 +41,14 @@
     font-size: 15px;
     cursor: pointer;
 }
+
+@media (max-width: 750px){
+   .left{
+    max-width: 100%;
+   }
+   .right{
+    max-width: 100%;
+   }
+    
+   
+   
