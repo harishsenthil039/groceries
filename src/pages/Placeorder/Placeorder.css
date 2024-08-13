@@ -41,7 +41,11 @@
     font-size: 15px;
     cursor: pointer;
 }
-
+@media (max-width: 768px) {
+    .order {
+      flex-direction: column; 
+    }
+  }
 
    
     
