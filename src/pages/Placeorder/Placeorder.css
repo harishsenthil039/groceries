@@ -44,6 +44,8 @@
 
 @media (max-width: 750px){
    .order{
+       display: flex;
+    align-items: left;
    flex-direction: column;
    }
    
