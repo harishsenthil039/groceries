@@ -43,12 +43,10 @@
 }
 
 @media (max-width: 750px){
-   .left{
-    max-width: 100%;
+   .order{
+   flex-direction: column;
    }
-   .right{
-    max-width: 100%;
-   }
+   
     
    
    
