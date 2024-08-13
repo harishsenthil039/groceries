@@ -1,0 +1,23 @@
+.but{
+    place-self: center;
+    
+}
+.but button{
+    border: none;
+    padding: 10px 20px;
+    border-radius: 4px;
+    color: white;
+    background-color: navy;
+    font-size: 15px;
+    cursor: pointer; 
+}
+.items p{
+    color: navy;
+}
+@media(max-width:750){
+    .but{
+        align-items: center;
+        
+    }
+}
+
